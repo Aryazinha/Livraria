@@ -15,7 +15,7 @@ Este é um projeto de sistema de gerenciamento para uma livraria, desenvolvido c
    ```bash
    git clone [https://github.com/SEU_USUARIO/Livraria.git](https://github.com/SEU_USUARIO/Livraria.git)
 
-2. # Criar o ambiente
+2. **Criar o ambiente**
    ```bash
    python -m venv venv
 
@@ -31,7 +31,7 @@ Este é um projeto de sistema de gerenciamento para uma livraria, desenvolvido c
    ```bash
    pip install -r requirements.txt
 
-5. Execute a aplicação
+5. **Execute a aplicação**
    ```bash
    flask run
 
