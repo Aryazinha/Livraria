@@ -1,15 +1,15 @@
-# 📚 Livraria - Sistema de Gerenciamento
+# Livraria - Sistema de Gerenciamento
 
 Este é um projeto de sistema de gerenciamento para uma livraria, desenvolvido como parte dos meus estudos de desenvolvimento Web Full Stack. O objetivo é permitir o controle de acervo, vendas e organização dos livros.
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 * **Linguagem:** Python
 * **Framework Web:** Flask
 * **ORM:** SQLAlchemy
 * **Banco de Dados:** SQLite 
 * **Design:** CSS Moderno
 
-## 🛠️ Como rodar o projeto localmente
+## Como rodar o projeto localmente
 
 1. **Clone o repositório:**
    ```bash
@@ -36,7 +36,7 @@ Este é um projeto de sistema de gerenciamento para uma livraria, desenvolvido c
    flask run
 
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 * `app/`: Contém a lógica principal, rotas e modelos da aplicação.
 * `migrations/`: Histórico de alterações no banco de dados.
 * `instance/`: Arquivos de instância local (banco de dados).
